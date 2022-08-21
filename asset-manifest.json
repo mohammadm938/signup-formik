@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/signup-formik/static/css/main.33642a64.css",
+    "main.js": "/signup-formik/static/js/main.419949c7.js",
+    "index.html": "/signup-formik/index.html",
+    "main.33642a64.css.map": "/signup-formik/static/css/main.33642a64.css.map",
+    "main.419949c7.js.map": "/signup-formik/static/js/main.419949c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33642a64.css",
+    "static/js/main.419949c7.js"
+  ]
+}
