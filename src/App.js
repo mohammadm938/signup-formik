@@ -1,23 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import SignupForm from "./components/SignupForm";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App flex flex-col pt-2 justify-center items-center ">
+      <div className="flex justify-center items-center text-xl font-bold mt-4 mb-4">
+        Signup Form
+      </div>
+      <SignupForm />
     </div>
   );
 }
